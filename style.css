@@ -1,0 +1,30 @@
+body {
+    background-color: chocolate;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    padding: 2rem;
+}
+
+section {
+    width: 300px;
+    background-color: aliceblue;
+    margin: auto;
+    padding: 40px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.66);
+    border-radius: 30px;
+}
+
+img {
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+}
+
+footer {
+    text-align: center;
+}
